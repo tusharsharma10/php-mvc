@@ -1,0 +1,15 @@
+{
+    "name": "world/ts",
+   "authors": [
+        {
+            "name": "Tushar Sharma",
+            "email": "tushar@learn.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
